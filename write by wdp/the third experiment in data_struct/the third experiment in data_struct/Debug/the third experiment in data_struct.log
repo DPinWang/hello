@@ -1,0 +1,14 @@
+﻿生成启动时间为 2015/11/23 17:24:33。
+     1>项目“D:\visual studio\数据结构实验\write by wdp\the third experiment in data_struct\the third experiment in data_struct\the third experiment in data_struct.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\the third experiment in data_struct.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "the third experiment in data_struct.cpp"
+         the third experiment in data_struct.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\visual studio\数据结构实验\write by wdp\the third experiment in data_struct\Debug\the third experiment in data_struct.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\visual studio\数据结构实验\write by wdp\the third experiment in data_struct\Debug\the third experiment in data_struct.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\visual studio\数据结构实验\write by wdp\the third experiment in data_struct\Debug\the third experiment in data_struct.lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\the third experiment in data_struct.obj"
+         the third experiment in data_struct.vcxproj -> D:\visual studio\数据结构实验\write by wdp\the third experiment in data_struct\Debug\the third experiment in data_struct.exe
+     1>已完成生成项目“D:\visual studio\数据结构实验\write by wdp\the third experiment in data_struct\the third experiment in data_struct\the third experiment in data_struct.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.70
